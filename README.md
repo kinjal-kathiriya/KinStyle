@@ -11,3 +11,9 @@ marketplace for buying and selling AI-generated clothing.
 • UIKit
 
 • PhotoKit
+
+
+<img width="114" height="216" alt="image" src="https://github.com/user-attachments/assets/1ff110d3-5a80-47d7-a384-e73041179802" />
+
+This is my app logo. It represents my app identity. <img width="468" height="56" alt="image" src="https://github.com/user-attachments/assets/b05c2044-97a6-46be-9f8d-d3b19e73a623" />
+

@@ -7,5 +7,7 @@ marketplace for buying and selling AI-generated clothing.
 
 ### Technologies Used:
 • Swift
+
 • UIKit
+
 • PhotoKit

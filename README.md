@@ -4,7 +4,8 @@ the shopping experience by allowing users to virtually try on AI-generated outfi
 swap their looks with trending styles, and purchase unique fashion items. The app
 integrates AI-driven outfit recommendations, interactive 3D customization, and a
 marketplace for buying and selling AI-generated clothing.
-Technologies Used:
+
+### Technologies Used:
 • Swift
 • UIKit
 • PhotoKit

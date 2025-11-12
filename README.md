@@ -55,5 +55,39 @@ After selecting Celebrity Outfit, it shows a screen for image upload. On this sc
 
 
 
+<img width="110" height="217" alt="image" src="https://github.com/user-attachments/assets/7ab3ae05-5240-4bd6-92bf-89654cb47021" />
+
+This is the Celebrity Outfit screen. On this screen, we have an 'Add to Cart' option. You can add all your outfit images to the cart. 
+
+
+<img width="110" height="215" alt="image" src="https://github.com/user-attachments/assets/35826d3f-4b3c-4ec2-8244-4ca58007e124" />
+
+This screen displays image information.  
+
+
+<img width="108" height="216" alt="image" src="https://github.com/user-attachments/assets/41574434-16a2-418f-934d-da7cb5fb5855" />
+
+If I add an image to the cart on the Celebrity Outfit screen, it will appear on this screen along with the outfit image, outfit name, price, size, and color. The total amount for your outfits will also be displayed, along with a checkout button. 
+
+
+<img width="218" height="216" alt="image" src="https://github.com/user-attachments/assets/c62ae90d-f5f0-4db9-b82c-0cccb905091a" />
+
+This is the Payment Information screen. We need to fill in all the required information. If any information is missing, an alert box will be displayed. 
+
+
+<img width="109" height="215" alt="image" src="https://github.com/user-attachments/assets/e024d787-849e-46e6-93bf-e6bb995baec6" />
+
+This is the Card Information screen. We need to enter all the card details. 
+
+
+<img width="219" height="217" alt="image" src="https://github.com/user-attachments/assets/a35724ce-b038-44af-8299-4e3451e1938d" />
+
+On this screen, the image of the item I want to buy and the total amount are displayed. After that, when I click the 'Place Order' button, a confirmation order box appears. 
+
+
+
+
+
+
 
 

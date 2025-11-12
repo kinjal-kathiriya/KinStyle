@@ -17,3 +17,5 @@ marketplace for buying and selling AI-generated clothing.
 
 This is my app logo. It represents my app identity. 
 
+
+<img width="325" height="221" alt="image" src="https://github.com/user-attachments/assets/ac619320-8c8f-488f-9398-7bd7d473886f" />
